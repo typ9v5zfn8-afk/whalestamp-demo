@@ -1,4 +1,4 @@
-import '/Users/frankruigrok/Library/Mobile Documents/com~apple~CloudDocs/Claude_work_folder/whalestamp-demo/node_modules/@whalestamp/ds/dist/index.css';
+import '../node_modules/@whalestamp/ds/dist/index.css';
 import { Button, Badge, Card, Input, Heading, Text } from '@whalestamp/ds';
 import { useState } from 'react';
 import './App.css';
